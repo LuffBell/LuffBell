@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hello, my name is Bruno and i make some projects &#128516</h1>
+<h1>Hello, my name is Bruno and i make some projects &#128516</h1>
 
-<p>I'm a physics student with great passion for programing and web disign.</p>
+<p style="font-size: 1.5rem;">I'm a physics student with great passion for programing and web disign.</p>
 
 <div>
   <p>I’m currently learning</p>
