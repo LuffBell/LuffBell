@@ -1,4 +1,4 @@
-<h1 style={ text-align: center; }>Hello, my name is Bruno and i make some projects &#128516</h1>
+<h1 style="text-align: center;">Hello, my name is Bruno and i make some projects &#128516</h1>
 
 <p>I'm a physics student with great passion for programing and web disign.</p>
 
