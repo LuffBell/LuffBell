@@ -1,8 +1,9 @@
-<h1>Hello, my name is Bruno and i make some projects &#128516</h1>
+<h1 style={ text-align: center; }>Hello, my name is Bruno and i make some projects &#128516</h1>
 
 <p>I'm a physics student with great passion for programing and web disign.</p>
+
 <div>
-  <p>these are the technologies I'm studying at the moment.</p>
+  <p>I’m currently learning</p>
   <ul>
     <li><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></li>
     <li><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></li>
