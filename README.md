@@ -1,6 +1,14 @@
+
+<style>
+  p {
+  font-size: 1.5rem;
+  }
+</style>
+
+
 <h1>Hello, my name is Bruno and i make some projects &#128516</h1>
 
-<p style="font-size: 1.5rem;">I'm a physics student with great passion for programing and web disign.</p>
+<p>I'm a physics student with great passion for programing and web disign.</p>
 
 <div>
   <p>I’m currently learning</p>
@@ -24,6 +32,7 @@
     <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></li>
   </ul>
 </div>
+
 
 <!--
 **LuffBell/LuffBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
