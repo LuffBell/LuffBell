@@ -5,7 +5,7 @@
 <div>
   <p>these are the technologies I'm studying at the moment.</p>
   <ul>
-    <li>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</li>
+    <li><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></li>
     <li>![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)</li>
     <li>![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)</li>
   </ul>
