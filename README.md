@@ -1,7 +1,6 @@
 # Hello 😁, my name is Bruno. Let me introduce myself!
 
 ### I'm a physics student with great passion for programing. I'm started learn about tecnologie and web development in 2020. Oh... and, i love cats. Okay, that's it.
-<br>
 
 #### My hobbies are:
  - Astrologie 🪐
@@ -10,7 +9,6 @@
  - Movies/Series 🤖
 
 ## 🔭 I’m currently learning
-<br>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysqlogoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravelogoColor=white" />
@@ -18,7 +16,6 @@
 </br>
 
 ## ⚡ Skills 
-<br>
 
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge& logo=html5logoColor=white" />
 
