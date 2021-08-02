@@ -10,24 +10,26 @@
 
 ## 🔭 I’m currently learning
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysqlogoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravelogoColor=white" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## ⚡ Skills 
 
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge& logo=html5logoColor=white" />
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3logoColor=white" />
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badgelogo=javascript&logoColor=black" />
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-  - <img src="https://img.shields.io/badge/Node.js-339933? style=for-the-badgelogo=nodedotjs&logoColor=white" />
+  ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-  - <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badgelogo=reaclogoColor=61DAFB" />
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-  - <img src="https://img.shields.io/badge/Bootstrap-563D7C? style=for-the-badgelogo=bootstrap&logoColor=white" />
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badgelogo=python& logoColor=white" />
+  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-  - <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge& logo=phplogoColor=white" />
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
